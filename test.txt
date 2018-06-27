@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-no matter
-=======
-nothing
->>>>>>> 3ae70cb70c6d51966f59f0dc3b2b8e484a65ad4d
+
+nothin
